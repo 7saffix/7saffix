@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
  
  <!--🌱 I’m currently learning **Docker, Supabase, AWS** --->
 
-💬 Ask me about **Node.js, React, Firebase... or anything**
+💬 Ask me about **Javascript,Node.js, React, Firebase... or anything**
 
 <!--  ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**  --->
 
@@ -48,8 +48,8 @@ You can click the Preview link to take a look at your changes.
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,nodejs,express,react,mongodb" />
-    <img src="https://skillicons.dev/icons?i=firebase,nextjs,tailwind,bootstrap,html,css,vscode,github,git" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,nodejs,express,react,mongodb,tailwind,firebase" /> <br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,figma" /><br>
 </div>
 
 <br/>
