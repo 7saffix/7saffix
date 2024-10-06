@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
  
  <!--🌱 I’m currently learning **Docker, Supabase, AWS** --->
 
-💬 Ask me about **Javascript,Node.js, React, Firebase... or anything**
+💬 Ask me about **Javascript,Node.js,Express,mongoDB,React... or anything**
 
 <!--  ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**  --->
 
