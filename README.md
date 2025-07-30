@@ -49,7 +49,7 @@ You can click the Preview link to take a look at your changes.
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,nodejs,express,react,mongodb,tailwind,firebase" /> 
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,react,mongodb,tailwind" /> 
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,figma" /><br>
 </div>
 
