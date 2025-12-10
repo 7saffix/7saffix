@@ -1,82 +1,112 @@
+# Shah Aziz Chowdhury Safi
 
-<!--
-- 👋 Hi, I’m Safi
-- 📫 How to reach me 7saffix@gmail.com
+**`Software Engineer | Full Stack Problem Solver `**
+
+I build. From concept to deployment, I thrive on the entire development lifecycle—designing architectures, writing clean, maintainable code, and deploying robust systems that solve real-world challenges. Passionate about technology that makes a difference and constantly expanding my toolkit to build a better tomorrow.
+
+---
+
+🧰 Languages and Tools  
 
 
-7saffix/7saffix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
- <!--  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />  --->
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="Node.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<!-- <img align="left" alt="Express" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /> -->
+<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="Prisma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="Next.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+<img align="left" alt="Redis" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="Tailwind CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
+<img align="left" alt="shadcn/ui" width="30px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shah+Aziz+Chowdhury+Safi+!;" />
-</h1>
-<h3 align="center">A passionate software developer from Bangladesh</h3>
 
-<br/>
+<br />
+<br />
+
+---
+
+### 📫 Connect With Me
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/_saffix_?label=Twitter&style=social)](https://twitter.com/_saffix_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/shah-aziz-chowdhury-safi/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](YOUR_PORTFOLIO_URL)
+
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-green)](https://your-portfolio.com)
+---
+
+<details>
+<summary>📈 More Stats</summary>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=gruvbox&layout=compact)
+
+</details>
+
+---
+
+*"The best way to predict the future is to create it." - Peter Drucker*
+
+
+- 🔭 **Currently working on:** [Project Name] - A brief description of your current project
+- 🌱 **Currently learning:** [Technology/Language] and exploring [Another Technology]
+- 👯 **Looking to collaborate on:** Open-source projects, innovative web/mobile apps
+- 💬 **Ask me about:** Web Development, JavaScript, React, Node.js, or anything tech-related!
+- 📫 **How to reach me:** [your.email@example.com](mailto:your.email@example.com)
+- ⚡ **Fun fact:** I can solve a Rubik's cube in under 2 minutes!
+- 🎯 **2025 Goals:** Contribute to 10+ open-source projects
+
+---
+
+
+## 📊 GitHub Stats
 
 <div align="center">
- 
- <!--🔭 I’m currently working on **a marketplace** --->
- 
- <!--🌱 I’m currently learning **Docker, Supabase, AWS** --->
-
-💬 Ask me about **Javascript,Node.js,Express,mongoDB,React... or anything**
-
-<!--  ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**  --->
-
- </div>
- 
-<div align="center"> 
- <!--
-     <a href=" 7saffix@gmail.com ">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a> -->
-  <a href="https://www.linkedin.com/in/saffix/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-<!--
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
-    <!-- sqlite, safari, google-chrome are other good icon options 
-  </a> --->
- 
-</div>
-
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,react,mongodb,tailwind" /> 
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,figma" /><br>
-</div>
-
-<br/>
-<!--
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&margin-w=15&margin-h=15)
+
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=react-dark&hide_border=true&area=true)
+
 </div>
 
-<hr/>
+---
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+## 📂 Featured Projects
 
+### 🚀 [Project 1 Name](https://github.com/yourusername/project1)
+![Stars](https://img.shields.io/github/stars/yourusername/project1?style=social) ![Forks](https://img.shields.io/github/forks/yourusername/project1?style=social)
 
+A brief description of your project. What problem does it solve? What technologies did you use?
 
-<br/>
---->
+**Tech Stack:** React, Node.js, MongoDB, Docker
+
+---
+
+### 🎨 [Project 2 Name](https://github.com/yourusername/project2)
+![Stars](https://img.shields.io/github/stars/yourusername/project2?style=social) ![Forks](https://img.shields.io/github/forks/yourusername/project2?style=social)
+
+Another project description highlighting your skills and achievements.
+
+**Tech Stack:** Python, Flask, PostgreSQL, AWS
+
+---
+
+### 🔧 [Project 3 Name](https://github.com/yourusername/project3)
+![Stars](https://img.shields.io/github/stars/yourusername/project3?style=social) ![Forks](https://img.shields.io/github/forks/yourusername/project3?style=social)
+
+Describe your third featured project here.
+
+**Tech Stack:** Vue.js, Express, MySQL, Redis
+
+---
