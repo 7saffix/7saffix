@@ -34,10 +34,9 @@ I build. From concept to deployment, I thrive on the entire development lifecycl
 ### 📫 Connect With Me
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/_saffix_?label=Twitter&style=social)](https://twitter.com/_saffix_)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/shah-aziz-chowdhury-safi/)
-
-[![Email](https://img.shields.io/badge/Email-devspace.safi%40gmail.com-D14836?style=social&logo=gmail)](mailto:devspace.safi@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-safi.dev-4285F4?style=social&logo=google-chrome)](https://safi.dev)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/shah-aziz-chowdhury-safi/)
+  [![Email](https://img.shields.io/badge/Email-devspace.safi%40gmail.com-D14836?style=social&logo=gmail)](mailto:devspace.safi@gmail.com)
+ <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-safi.dev-4285F4?style=social&logo=google-chrome)](https://safi.dev) -->
 
 
 ---
@@ -99,10 +98,27 @@ Describe your third featured project here.
 <details>
 <summary>📈 More Stats</summary>
 
+### 📅 Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=7saffix&theme=react-dark&hide_border=true&area=true&refresh=4)
+
+**Recent Contribution Timeline**
+<div align="center">
+
+### 💻 Primary Languages
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://github.com/7saffix)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/7saffix)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://github.com/7saffix)
+
+### 🎯 Recent Work
+| Project | Tech Stack | Status |
+|---------|------------|--------|
+| **[TourBee-server](https://github.com/7saffix/TourBee-server)** | TypeScript, Node.js | Active |
+
+</div>
+
+
 </details>
 
-## 📊 GitHub Stats
-![Simple Stats](https://streak-stats.demolab.com/?user=7saffix)
 
 ---
 
